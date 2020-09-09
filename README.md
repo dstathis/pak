@@ -1,2 +1,2 @@
-# pak
-Universal package manager
+# pakm
+Universal Package Manager

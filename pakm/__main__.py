@@ -1,5 +1,5 @@
 import sys
 
-from pak import main
+from pakm import main
 
 sys.exit(main.main())

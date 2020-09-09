@@ -2,7 +2,7 @@ import argparse
 import os
 import subprocess
 
-from pak import constants
+from pakm import constants
 
 
 def run(cmd):
